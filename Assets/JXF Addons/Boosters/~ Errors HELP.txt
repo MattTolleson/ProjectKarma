@@ -1,0 +1,29 @@
+IF YOU ENCOUNTER ERRORS
+========================
+
+Help help !! JXF Add-On Boosters is NOT working / showing !!!
+calm down...
+
+try the following first :-
+
+------------------
+
+1) Do you have any of the following assets (JMFP/JSF) imported? JXF requires any one of the asset to work.
+
+------------------
+
+2) The min asset version that supports JXF is :-
+     JMFP v2.1.3
+     JSF v1.1.3
+
+Please upgrade to the mininum required version before using JXF Add-Ons. TQ
+
+
+------------------
+still cannot?
+Contact me :)
+
+
+email :- kurastudios@gmail.com
+facebook :- https://www.facebook.com/KuraStudios
+Unity forum PM :- kurayami88

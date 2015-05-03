@@ -1,0 +1,4 @@
+please add the scenes to your Build Settings if you wish to use the Main Menu navigation!
+
+CTRL+SHIFT+B for unity Newbies :)
+then drag all the 3 scenes into the list ! :D

@@ -1,0 +1,43 @@
+You can view the Demo scene for a live sample on how the Add-On is incorporated.
+
+---------------------------------
+
+HOW TO USE "JXF Boosters"
+
+step 1:  Drag the booster prefab to your game scene
+
+step 2: Re-arrange the placement to fit your scene
+
+step 3: play the scene... simple!
+
+step 4: Add/Adjust the script behaviour as necessary.
+
+----------------
+
+P.S.> Booster.cs script is the master script that decides how the items are used.
+      All other scripts inherits from this main script. The other scripts simply specifies what powers they have only.
+
+
+
+
+Further Customisation
+==========================
+
+1) You can change the GUIs of the booster prefab to suit your liking. Simply swap out the sprites provided :)
+
+2) You can change the booster's script simply by re-assigning another booster script OR
+   deleting the old script and adding a new booster script to the GameObject.
+
+3) You can change some simple default properties via the individual booster's inspector in Unity.
+
+----------------
+
+4) Feel free to add / modify the available script to meet your custom needs.
+However, please keep track of the changes made to make it easier for your to merge with future updates. TQ 
+
+
+
+
+#####  P.S. #####
+JXF add-ons uses Unity2D GUIs. However, you can easily swap them out for any GUI engine you are using.
+They are compatible with ANY JMFP / JSF GUI version you are using! (as long as you meet the min required version of course)

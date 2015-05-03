@@ -1,0 +1,27 @@
+Created by Kurayami88
+Bug reports are welcome~!
+Feedback & Suggestions will be great!
+
+Latest version of package used :-
+Unity 4.6.1 f1
+
+
+##############
+Changelog
+##############
+
+v 1.0.0
+-------------------------
+Initial Release
+
+Features :-
+* JSF / JMFP cross-compatible booster add-on !
+
+* Simple booster engine integrated with JMFP / JSF
+
+* Default Predefined power for you to get ideas from :-
+   > Horizontal Power
+   > Vertical Power
+   > Bomb Power
+   > Special5 power
+   > Special6 power
